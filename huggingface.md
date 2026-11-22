@@ -154,17 +154,5 @@ Nếu chương trình có hỗ trợ checkpoint, cần giữ nguyên các file c
 | `CUDA out of memory` | Kiểm tra cấu hình thiết bị và phương thức chạy model |
 | Translation bị gián đoạn | Kiểm tra checkpoint và cơ chế resume của script |
 
-## 9. Checklist trước khi chạy
-
-- [ ] Đã có source code dự án.
-- [ ] Đã có file `translation.py`.
-- [ ] Đã có dataset đầu vào đúng vị trí.
-- [ ] Đã cài Python.
-- [ ] Đã activate virtual environment.
-- [ ] Đã cài dependencies.
-- [ ] Đã tạo Hugging Face Access Token.
-- [ ] Đã chạy `hf auth login`.
-- [ ] Đã kiểm tra `hf auth whoami`.
-- [ ] Đã kiểm tra đường dẫn dữ liệu.
 
 **Sau khi hoàn thành checklist, thành viên có thể chạy `translation.py` để thực hiện quá trình dịch dữ liệu.**
