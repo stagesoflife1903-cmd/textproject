@@ -21,7 +21,7 @@ The translation script searches for input files in `data/` or the existing `data
 
 Install:
 - [Git](https://git-scm.com/downloads)
-- [Python](https://www.python.org/downloads/)
+- [Python](https://www.python.org/downloads/) (version 3.14.7)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - VS Code extensions: Python and Jupyter
 
